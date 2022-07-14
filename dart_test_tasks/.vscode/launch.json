@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "console": "terminal",
+            "name": "Dart Tests",
+            "program": "test",
+            "request": "launch",
+            "type": "dart"
+            
+        }
+        
+    ]
+}
